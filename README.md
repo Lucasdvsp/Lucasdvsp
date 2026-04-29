@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-📖| Atualmente no último ano do ensino médio técnico em desenvolvimento de sistemas;<br>💼| Procuro oportunidades de entrar na área de dados;<br>🖥️| Desenvolvendo habilidades em engenharia de dados e Power BI;<br>📧| Me mande um e-mail! lucaspaulinoramos@gmail.com
+📖| Atualmente no último ano do ensino médio técnico em desenvolvimento de sistemas;<br>💼| Procuro oportunidades para entrar na área de dados;<br>🖥️| Desenvolvendo habilidades em engenharia de dados e Power BI;<br>📧| Me mande um e-mail! lucaspaulinoramos@gmail.com
 
 
 ## 🌐 Redes Sociais:
